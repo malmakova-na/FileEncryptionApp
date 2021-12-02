@@ -1,0 +1,4 @@
+numpy
+pycrypto
+psycopg2
+Flask
