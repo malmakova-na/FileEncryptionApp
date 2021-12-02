@@ -1,0 +1,5 @@
+client/node_modules
+server/__pycache__
+server/venv
+client/src/userFiles/*
+!client/src/userFiles/.gitkeep
