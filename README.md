@@ -39,6 +39,6 @@ npm run start
 ## Как использовать
 <img src="https://raw.githubusercontent.com/malmakova-na/FileEncryptionApp/main/images/img1.png" width="40%" height="430px"></img>
 <img src="https://raw.githubusercontent.com/malmakova-na/FileEncryptionApp/main/images/img2.png" width="40%" height="410px"></img>
- * При первом входе вам нужно зарегистрироваться по нажатию кнопки "Registrtion"
+ * При первом входе вам нужно зарегистрироваться по нажатию кнопки "Registrate"
  * Если вы хотите зашифровать файл, то выбирете его по кнопке "Encrypt", после чего будет создан зашифрованный файл в той же папке *имя файла*.encrypt
  * Для расшифровки файла .encrypt, используйте кнопку  "Decrypt"
